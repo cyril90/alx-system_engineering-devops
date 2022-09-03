@@ -1,1 +1,1 @@
-long format files
+current directory hidden files
