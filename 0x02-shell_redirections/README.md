@@ -1,1 +1,1 @@
-my first read me
+This is a shell redirection project
